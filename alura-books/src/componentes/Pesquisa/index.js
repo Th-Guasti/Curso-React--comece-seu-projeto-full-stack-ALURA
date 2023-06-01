@@ -10,6 +10,7 @@ const PesquisaContainer = styled.section`
     padding: 85px 0;
     height: 270px;
     width: 100%;
+    margin-bottom: 80px;
 `
 const Titulo = styled.h2`
     color: #FFF;
